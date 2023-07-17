@@ -5,5 +5,5 @@
 
 <h2>👨‍💻 Tiny Software Development Projects / Exercises:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/Juan-Abellan/xxx)
+- [Praciting DS & Algos in Python](https://github.com/Juan-Abellan/Beginner-Hangman-Game.git)
 - [Image Analysis Middleware](https:/github.com/Juan-Abellan/xxx)
