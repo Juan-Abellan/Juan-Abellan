@@ -12,5 +12,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Beginner-Hangman-Game](https://github.com/Juan-Abellan/Beginner-Hangman-Game.git)
 - [Beginner-Caesar-Cipher](https://github.com/Juan-Abellan/Beginner-Caesar-Cipher.git)
 - [Calculator]( https://github.com/Juan-Abellan/Calculator.git)
+- [Black Jack](https://github.com/Juan-Abellan/Black-Jack.git)
+  
 
 
