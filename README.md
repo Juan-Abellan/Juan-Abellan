@@ -15,6 +15,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Black-Jack](https://github.com/Juan-Abellan/Black-Jack.git)
 - [Number-Guessing-Game](https://github.com/Juan-Abellan/Number-Guessing-Game.git)
 - [Higher-Lower-Game](https://github.com/Juan-Abellan/Higher-Lower-Game.git)
+- [OPP-Coffee-Machine](https://github.com/Juan-Abellan/OPP-Coffee-Machine.git)
 
 
   
