@@ -25,7 +25,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 <h2>SQL and sqlite3 Exercises:</h2>
 
-- [Platzhalter](https://github.com/Juan-Abellan/Beginner-Hangman-Game.git)
+- [Basic-SQL](https://github.com/Juan-Abellan/Basic-SQL.git)
 
 
 
