@@ -27,6 +27,10 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 - [Basic-SQL](https://github.com/Juan-Abellan/Basic-SQL.git)
 - [Advanced-SQL](https://github.com/Juan-Abellan/Advanced-SQL.git)
+- [Blog-SQL](https://github.com/Juan-Abellan/Blog-SQL.git)
+
+
+
 
 
 
