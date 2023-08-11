@@ -30,6 +30,10 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Blog-SQL](https://github.com/Juan-Abellan/Blog-SQL.git)
 - [SQLite-Tutorial](https://github.com/Juan-Abellan/SQLite_Tutorial.git)
 
+<h2>NumPy & Pandas Exercises:</h2>
+
+
+
 
 
 
