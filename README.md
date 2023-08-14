@@ -31,6 +31,10 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [SQLite-Tutorial](https://github.com/Juan-Abellan/SQLite_Tutorial.git)
 
 <h2>NumPy & Pandas Exercises:</h2>
+- [us-oil-and-gas-production](https://github.com/Juan-Abellan/us-oil-and-gas-production.git)
+
+
+
 
 
 
