@@ -35,6 +35,10 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [us-oil-and-gas](https://github.com/Juan-Abellan/us-oil-and-gas-production.git)
 - [multiple-files-with-pandas](https://github.com/Juan-Abellan/multiple-files-with-pandas.git)
 - [titanic-disaster](https://github.com/Juan-Abellan/titanic_disaster.git)
+- [data-stock-market-api](https://github.com/Juan-Abellan/data-stock-market-api.git)
+
+
+
 
 
 
