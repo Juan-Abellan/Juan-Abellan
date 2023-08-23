@@ -37,6 +37,8 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [titanic-disaster](https://github.com/Juan-Abellan/titanic_disaster.git)
 - [data-stock-market-api](https://github.com/Juan-Abellan/data-stock-market-api.git)
 - [book_scraping](https://github.com/Juan-Abellan/book_scraping.git)
+- [Text-Extraction-with-Regex](https://github.com/Juan-Abellan/Text-Extraction-with-Regex.git)
+
 
 
 
