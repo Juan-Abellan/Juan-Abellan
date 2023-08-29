@@ -25,7 +25,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 <h2>Tkinter / Graphical user interfaces :</h2>
   
-- [Pomodoro-Timer-App](https://github.com/Juan-Abellan/turtle-crossing-game.git)
+- [Pomodoro-Timer-App](https://github.com/Juan-Abellan/Pomodoro-Timer-GUI.git)
 - [Password-Manager-GUI](https://github.com/Juan-Abellan/Password-Manager-GUI.git)
 
 <h2>SQL and sqlite3 Exercises:</h2>
