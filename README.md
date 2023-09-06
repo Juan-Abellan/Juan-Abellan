@@ -27,6 +27,8 @@ In order to develop professionally, I decided to acquire skills in programming a
   
 - [Pomodoro-Timer-GUI](https://github.com/Juan-Abellan/Pomodoro-Timer-GUI.git)
 - [Password-Manager-GUI](https://github.com/Juan-Abellan/Password-Manager-GUI.git)
+- [Flash-Cards-App-GUI](https://github.com/Juan-Abellan/Flash-Cards-App-GUI.git)
+  
 
 <h2>SQL and sqlite3 Exercises:</h2>
 
