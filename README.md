@@ -6,7 +6,10 @@
 Since my Master’s degree I have worked as an architect in Spain, Ireland and Germany. Thus, I was able to gain experience in offices of different nations and content orientations.
 In order to develop professionally, I decided to acquire skills in programming and data science. Since June 2022 I completed an online course in Python programming. After that I participated in the LeWagon Data Science Bootcamp in Berlin, where I was able to deepen topics such as data analysis, machine learning, and programming. At this moment I am developing my portfolio in programming and data analysis. At the same time I am looking for my first job as a junior data analyst. My goal is to start working and continue learning in a corporate environment.
 
+------------------------------------------------------------------------
 
+<h1> 100 Days of Code: The Complete Python Pro Bootcamp_UDEMY
+  
 <h2>Software Development Exercises / Games:</h2>
 
 - [Beginner-Hangman-Game](https://github.com/Juan-Abellan/Beginner-Hangman-Game.git)
@@ -29,7 +32,9 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Password-Manager-GUI](https://github.com/Juan-Abellan/Password-Manager-GUI.git)
 - [Flash-Cards-App-GUI](https://github.com/Juan-Abellan/Flash-Cards-App-GUI.git)
   
---------
+------------------------------------------------------------------------
+<h1>Data Science Bootcamp_Le Wagon
+  
 <h2>SQL and sqlite3 Exercises:</h2>
 
 - [Basic-SQL](https://github.com/Juan-Abellan/Basic-SQL.git)
@@ -47,7 +52,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Text-Extraction-with-Regex](https://github.com/Juan-Abellan/Text-Extraction-with-Regex.git)
 - [Books-CSV-API](https://github.com/Juan-Abellan/Books-CSV-API.git)
 
-  <h2>Data Visualization with Matplotlib and Seaborn:</h2>
+<h2>Data Visualization with Matplotlib and Seaborn:</h2>
 
 
 
