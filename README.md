@@ -29,7 +29,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Password-Manager-GUI](https://github.com/Juan-Abellan/Password-Manager-GUI.git)
 - [Flash-Cards-App-GUI](https://github.com/Juan-Abellan/Flash-Cards-App-GUI.git)
   
-
+--------
 <h2>SQL and sqlite3 Exercises:</h2>
 
 - [Basic-SQL](https://github.com/Juan-Abellan/Basic-SQL.git)
@@ -46,6 +46,8 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [book_scraping](https://github.com/Juan-Abellan/book_scraping.git)
 - [Text-Extraction-with-Regex](https://github.com/Juan-Abellan/Text-Extraction-with-Regex.git)
 - [Books-CSV-API](https://github.com/Juan-Abellan/Books-CSV-API.git)
+
+  <h2>Data Visualization with Matplotlib and Seaborn:</h2>
 
 
 
