@@ -55,7 +55,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 <h2>Data Visualization with Matplotlib and Seaborn:</h2>
 
 - [Seaborn_Basics](https://github.com/Juan-Abellan/Seaborn_basics.git)
-- [Scatter_Plot](https://github.com/Juan-Abellan/Seaborn_basics.git)
+- [Scatter_Plot](https://github.com/Juan-Abellan/Scatter_Plot.git)
 
 
 
