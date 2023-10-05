@@ -67,7 +67,9 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 - [Real-Estate-Estimator](https://github.com/Juan-Abellan/Real-Estate-Estimator.git)
 - [Real-Estate-Estimator-Advanced](https://github.com/Juan-Abellan/Real-Estate-Estimator-Advanced.git)
-- [Optimize-with-Scipy](https://github.com/Juan-Abellan/Optimize-with-Scipy.git)    
+- [Optimize-with-Scipy](https://github.com/Juan-Abellan/Optimize-with-Scipy.git)
+- [Explore_Arrays](https://github.com/Juan-Abellan/Explore_Arrays.git)
+
 
 
 
