@@ -35,6 +35,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 <h2>Automation with Python :</h2>
   
 - [Monday-Motivation](https://github.com/Juan-Abellan/Monday_Motivation.git)
+- [Automated_Birthday_Wisher](https://github.com/Juan-Abellan/Automated_Birthday_Wisher.git)
 ------------------------------------------------------------------------
 <h1>Data Science Bootcamp_Le Wagon
   
