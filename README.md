@@ -1,7 +1,7 @@
 <h1>Hi, I'm Juan! 
 <br/>
 An <a href="https://issuu.com/abellangarcia/docs/00_portfolio2023_issuu">architect</a>,
-with <a href="https://github.com/Juan-Abellan">programmer / data analyst</a> skills</h1> .
+with <a href="https://github.com/Juan-Abellan">programmer / data analyst</a> skills</h1>
 
 Since my Master’s degree I have worked as an architect in Spain, Ireland and Germany. Thus, I was able to gain experience in offices of different nations and content orientations.
 In order to develop professionally, I decided to acquire skills in programming and data science. Since June 2022 I completed an online course in Python programming. After that I participated in the LeWagon Data Science Bootcamp in Berlin, where I was able to deepen topics such as data analysis, machine learning, and programming. At this moment I am developing my portfolio in programming and data analysis. At the same time I am looking for my first job in IT. My goal is to start working and continue learning in a corporate environment.
@@ -36,6 +36,7 @@ In order to develop professionally, I decided to acquire skills in programming a
   
 - [Monday-Motivation](https://github.com/Juan-Abellan/Monday_Motivation.git)
 - [Automated_Birthday_Wisher](https://github.com/Juan-Abellan/Automated_Birthday_Wisher.git)
+- [ISS_Overhead_Notifier]()
 ------------------------------------------------------------------------
 <h1>Data Science Bootcamp_Le Wagon
   
