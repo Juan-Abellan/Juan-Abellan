@@ -31,6 +31,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Pomodoro-Timer-GUI](https://github.com/Juan-Abellan/Pomodoro-Timer-GUI.git)
 - [Password-Manager-GUI](https://github.com/Juan-Abellan/Password-Manager-GUI.git)
 - [Flash-Cards-App-GUI](https://github.com/Juan-Abellan/Flash-Cards-App-GUI.git)
+- [The-Quiz-Project-API](https://github.com/Juan-Abellan/The-Quiz-Project-API.git)
 
 <h2>Automation with Python :</h2>
   
