@@ -39,6 +39,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Automated_Birthday_Wisher](https://github.com/Juan-Abellan/Automated_Birthday_Wisher.git)
 - [ISS_Overhead_Notifier](https://github.com/Juan-Abellan/ISS_Overhead_Notifier.git)
 - [SMS_Rain_Alert](https://github.com/Juan-Abellan/SMS_Rain_Alert.git)
+- [Stock-TradingNews-Alert](https://github.com/Juan-Abellan/Stock-TradingNews-Alert.git)
 ------------------------------------------------------------------------
 <h1>Data Science Bootcamp_Le Wagon
   
