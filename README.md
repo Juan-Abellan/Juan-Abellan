@@ -79,7 +79,6 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Explore_Arrays](https://github.com/Juan-Abellan/Explore_Arrays.git)
 - [trace_and_determinants](https://github.com/Juan-Abellan/trace_and_determinants.git)
 - [Audio_Processing](https://github.com/Juan-Abellan/Audio_Processing.git)
-- []()
 
 
 
