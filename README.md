@@ -80,6 +80,9 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [trace_and_determinants](https://github.com/Juan-Abellan/trace_and_determinants.git)
 - [Audio_Processing](https://github.com/Juan-Abellan/Audio_Processing.git)
 
+<h2>Statistics & Probabilities:</h2>
+
+- [Law_Of_Large_Numbers](https://github.com/Juan-Abellan/Law_Of_Large_Numbers.git)
 
 
 
