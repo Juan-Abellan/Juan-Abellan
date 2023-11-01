@@ -83,6 +83,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 <h2>Statistics & Probabilities:</h2>
 
 - [Law_Of_Large_Numbers](https://github.com/Juan-Abellan/Law_Of_Large_Numbers.git)
+- [Random_Variables](https://github.com/Juan-Abellan/Random_Variables.git)
 
 
 
