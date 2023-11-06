@@ -87,9 +87,19 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Central_Limit_Theorem](https://github.com/Juan-Abellan/Central_Limit_Theorem.git)
 - [Bayes_Theorem](https://github.com/Juan-Abellan/Bayes_Theorem.git)
 - [Markov_Chains](https://github.com/Juan-Abellan/Markov_Chains.git)
-- [Mean_Without_Outliers](https://github.com/Juan-Abellan/Mean_Without_Outliers.git)
+- [Mean_Without_Outliers](https://github.com/Juan-Abellan/Mean_Without_Outliers.git
 
+<h2>Decision Science:</h2>
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
