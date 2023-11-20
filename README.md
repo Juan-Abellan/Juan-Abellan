@@ -100,6 +100,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Simple_Analysis](https://github.com/Juan-Abellan/Simple_Analysis.git)
 - [NPS_Score](https://github.com/Juan-Abellan/NPS_Score.git)
 - [Orders_Regression](https://github.com/Juan-Abellan/Orders_Regression.git)
+- [Sellers](https://github.com/Juan-Abellan/Sellers.git)
 
 
 
