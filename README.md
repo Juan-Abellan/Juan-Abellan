@@ -41,8 +41,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [SMS_Rain_Alert](https://github.com/Juan-Abellan/SMS_Rain_Alert.git)
 - [Stock-TradingNews-Alert](https://github.com/Juan-Abellan/Stock-TradingNews-Alert.git)
 - [Workout_Tracker](https://github.com/Juan-Abellan/Workout_Tracker.git)
-- []()
-- []()
+
 ------------------------------------------------------------------------
 <h1>Data Science Bootcamp_Le Wagon
   
@@ -106,6 +105,7 @@ In order to develop professionally, I decided to acquire skills in programming a
 - [Sellers](https://github.com/Juan-Abellan/Sellers.git)
 - [Products](https://github.com/Juan-Abellan/Products.git)
 - [Delivery_Time](https://github.com/Juan-Abellan/Delivery_Time.git)
+- [Logit](https://github.com/Juan-Abellan/Logit.git)
 
 
 
