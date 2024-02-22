@@ -46,8 +46,9 @@ In order to develop professionally, I decided to acquire skills in programming a
 ------------------------------------------------------------------------
 <h1>Data Science Bootcamp_Le Wagon
   
-<h2>SQL and sqlite3 Exercises:</h2>
+<h2>csv, SQL and sqlite3 Exercises:</h2>
 
+- [Olympic-Winter-Games-csv](https://github.com/Juan-Abellan/olympic-winter-games.git)
 - [Basic-SQL](https://github.com/Juan-Abellan/Basic-SQL.git)
 - [Advanced-SQL](https://github.com/Juan-Abellan/Advanced-SQL.git)
 - [Blog-SQL](https://github.com/Juan-Abellan/Blog-SQL.git)
