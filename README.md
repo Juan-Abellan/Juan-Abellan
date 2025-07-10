@@ -10,6 +10,8 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 <h1> Profesional Projects
 
+- [Data-Project](https://github.com/Juan-Abellan/Data_Project.git)
+
 ------------------------------------------------------------------------
 
 <h1> 100 Days of Code: The Complete Python Pro Bootcamp_UDEMY
