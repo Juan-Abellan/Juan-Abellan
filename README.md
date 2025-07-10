@@ -8,7 +8,9 @@ In order to develop professionally, I decided to acquire skills in programming a
 
 ------------------------------------------------------------------------
 
-<h1> Profesional Projects
+<h1> Projects</h1>
+
+<h2>Automation</h2>
 
 - [Data-Project](https://github.com/Juan-Abellan/Data_Project.git)
 
