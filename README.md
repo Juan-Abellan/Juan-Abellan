@@ -1,10 +1,9 @@
-<h1>Hi, I'm Juan! 
-<br/>
-An <a href="https://issuu.com/abellangarcia/docs/00_portfolio2023_issuu">architect</a>,
-with <a href="https://github.com/Juan-Abellan">programmer / data analyst</a> skills</h1>
+<h1>Hi, I'm Juan!<br/>
+An <a href="https://issuu.com/abellangarcia/docs/00_portfolio2023_issuu">architect</a> with <a href="https://github.com/Juan-Abellan">programming & data analysis</a> skills</h1>
 
-Since my Master’s degree I have worked as an architect in Spain, Ireland and Germany. Thus, I was able to gain experience in offices of different nations and content orientations.
-In order to develop professionally, I decided to acquire skills in programming and data science. Since June 2022 I completed an online course in Python programming. After that I participated in the LeWagon Data Science Bootcamp in Berlin, where I was able to deepen topics such as data analysis, machine learning, and programming. At this moment I am developing my portfolio in programming and data analysis. At the same time I am looking for a job. My goal is to start working and continue learning in a corporate environment.
+<p>Since completing my Master’s degree, I have worked as an architect in Spain, Ireland, and Germany, gaining experience in offices with diverse national and professional approaches. 
+To broaden my professional scope, I have independently developed skills in programming and data science, including completing Python courses and the <a href="https://www.lewagon.com/">LeWagon Data Science Bootcamp</a> in Berlin. 
+I am currently developing my programming and data analysis portfolio while seeking opportunities where I can contribute my hybrid expertise and continue learning in a collaborative environment.</p>
 
 ------------------------------------------------------------------------
 
